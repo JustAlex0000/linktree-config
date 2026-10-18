@@ -1,0 +1,22 @@
+{
+  "title": "My Linktree",
+  "profile": {
+    "name": "JustAlex",
+    "bio": "Web Developer and Designer",
+    "avatar": "https://example.com/avatar.jpg"
+  },
+  "links": [
+    {
+      "id": "github",
+      "label": "GitHub",
+      "url": "https://github.com/JustAlex0000",
+      "icon": "github"
+    }
+  ],
+  "theme": {
+    "primaryColor": "#1DA1F2",
+    "secondaryColor": "#14171A",
+    "backgroundColor": "#FFFFFF",
+    "textColor": "#000000"
+  }
+}
