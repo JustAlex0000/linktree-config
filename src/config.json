@@ -3,7 +3,7 @@
   "profile": {
     "name": "JustAlex",
     "bio": "Web Developer and Designer",
-    "avatar": "https://example.com/avatar.jpg"
+    "avatar": "https://cdn.discordapp.com/avatars/808351836028928012/caf2670b849d13e403d263f6e63b0f60.webp?size=56"
   },
   "links": [
     {
@@ -16,7 +16,8 @@
   "theme": {
     "primaryColor": "#1DA1F2",
     "secondaryColor": "#14171A",
-    "backgroundColor": "#FFFFFF",
-    "textColor": "#000000"
+    "backgroundColor": "#2B2929",
+    "textColor": "#FFFFFF",
+    "buttonColor": "#1DA1F2"
   }
 }

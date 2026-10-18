@@ -5,7 +5,16 @@ import LinkButton from './components/LinkButton'
 
 function App() {
   return (
-      <main>
+      <main
+        className="link-page"
+        style={{
+          "--primary-color": config.theme.primaryColor,
+          "--secondary-color": config.theme.secondaryColor,
+          "--background-color": config.theme.backgroundColor,
+          "--text-color": config.theme.textColor,
+          "--button-color": config.theme.buttonColor,
+        }}
+      >
         <h1>{config.title}</h1>
         <nav className="links">
           {config.links.map((link) => (
