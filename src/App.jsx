@@ -13,9 +13,12 @@ function App() {
           "--background-color": config.theme.backgroundColor,
           "--text-color": config.theme.textColor,
           "--button-color": config.theme.buttonColor,
+          "--font-family": config.theme.fontFamily,
         }}
       >
+        <img src={config.profile.avatar} alt={config.profile.name} className="profile-avatar" />
         <h1>{config.title}</h1>
+        <p>{config.profile.bio}</p>
         <nav className="links">
           {config.links.map((link) => (
             <LinkButton 

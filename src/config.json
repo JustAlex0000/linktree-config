@@ -1,5 +1,5 @@
 {
-  "title": "My Linktree",
+  "title": "JustAlex",
   "profile": {
     "name": "JustAlex",
     "bio": "Web Developer and Designer",
@@ -11,6 +11,13 @@
       "label": "GitHub",
       "url": "https://github.com/JustAlex0000",
       "icon": "github"
+
+    },
+    {
+      "id": "discord",
+      "label": "My Discord",
+      "url": "https://discord.com/users/808351836028928012",
+      "icon": "discord"
     }
   ],
   "theme": {
@@ -18,6 +25,7 @@
     "secondaryColor": "#14171A",
     "backgroundColor": "#2B2929",
     "textColor": "#FFFFFF",
-    "buttonColor": "#1DA1F2"
+    "buttonColor": "#1DA1F2",
+    "fontFamily": "Arial, sans-serif"
   }
 }
